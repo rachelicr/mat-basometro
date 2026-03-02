@@ -174,3 +174,4 @@ images/heatmap_num_clusters_metrics.pdf
 images/heatmap_num_clusters_depth5.pdf
 images/heatmap_depth_min_trajs.pdf
 datasets/basometro/basometro.csv
+output/*
